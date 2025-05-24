@@ -1,0 +1,841 @@
+[
+    {
+        "nome": "Sra. Brenda da Rocha",
+        "cpf": "996e5aa140067230838337cb4a18fa43def2ff0d308b1be9fa5be3e299c21754",
+        "idade": "22",
+        "email": "tfogaca@castro.com",
+        "celular": "11913830419",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": [
+            "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas"
+        ]
+    },
+    {
+        "nome": "Dr. Lucas da Costa",
+        "cpf": "7715cc4e1cb4801be7b72db646f974c42d94d14fd89aa3bceeb483dd9a9e9f76",
+        "idade": "22",
+        "email": "ucorreia@uol.com.br",
+        "celular": "11929751070",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas"
+        ]
+    },
+    {
+        "nome": "Davi Costela",
+        "cpf": "a770baaa8b8f1965256c4725c405d79ad7e96066980f6f91d61b3133d25adf34",
+        "idade": "27",
+        "email": "mmartins@hotmail.com",
+        "celular": "11905364036",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas",
+                "status": "em andamento"
+            },
+            {
+                "nome": "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas"
+        ]
+    },
+    {
+        "nome": "Eduarda Lima",
+        "cpf": "2310cbe3968c38a9b35adef0a5d40a22df1672355272c6ee3cfd61a3efba1ebb",
+        "idade": "25",
+        "email": "bruna15@sales.br",
+        "celular": "11930499935",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+            "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas"
+        ]
+    },
+    {
+        "nome": "Sra. Alice Alves",
+        "cpf": "b051b16223f823728bd8e7f293791299f4db5c15bb3a78e2620615980b237851",
+        "idade": "29",
+        "email": "frezende@uol.com.br",
+        "celular": "11999432281",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Elisa da Rosa",
+        "cpf": "4465d488b86d9113312f5426e91fab67602e52b6e721293d4402cf6a745659af",
+        "idade": "38",
+        "email": "stellacunha@ig.com.br",
+        "celular": "11981950937",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Fernando da Concei\u00c3\u00a7\u00c3\u00a3o",
+        "cpf": "e01685800922de7161a409b44207f8473d3f29e78137a06e53835cd5ae99ab3a",
+        "idade": "26",
+        "email": "nmonteiro@alves.net",
+        "celular": "11926934637",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Francisco Monteiro",
+        "cpf": "21be8baa73638eb0892b2005cee9f3cceadd53189ba0237cc165f80b125e38d3",
+        "idade": "20",
+        "email": "ribeiroana@ig.com.br",
+        "celular": "11911615611",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "em andamento"
+            },
+            {
+                "nome": "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas"
+        ]
+    },
+    {
+        "nome": "Yago Moraes",
+        "cpf": "5f3d3057f8c10016c20d3db211f2b2c09f745b2f3122895425e7254ba4bc8d4d",
+        "idade": "23",
+        "email": "bianca30@cardoso.br",
+        "celular": "11937747047",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": [
+            "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas"
+        ]
+    },
+    {
+        "nome": "Ana Carolina Melo",
+        "cpf": "995751058b40a529b08d42e7b96d0305787d3f996b90c911fa6f26b5eab9c187",
+        "idade": "18",
+        "email": "xsilva@yahoo.com.br",
+        "celular": "11977540289",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Fundamentos de Programa\u00c3\u00a7\u00c3\u00a3o com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 6 semanas",
+                "status": "em andamento"
+            },
+            {
+                "nome": "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Fernando Alves",
+        "cpf": "62609e2d3a3f2c24e4daf8ad6ca098a386e94c71a3acd294e16927b8679d91dc",
+        "idade": "22",
+        "email": "leticiagoncalves@ig.com.br",
+        "celular": "11984733766",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Fundamentos de Programa\u00c3\u00a7\u00c3\u00a3o com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 6 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Davi Luiz Melo",
+        "cpf": "51cd2fb92ca3182505d14846739be9d3b223318c1c0a80225e601dce58512549",
+        "idade": "31",
+        "email": "salesigor@ig.com.br",
+        "celular": "11949784767",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas"
+        ]
+    },
+    {
+        "nome": "Nathan Alves",
+        "cpf": "cd4dd7e31d3e6388dfdca67cd55bc38f3e8dd567e41de8071af7ad9bcbe71982",
+        "idade": "19",
+        "email": "camila30@fernandes.com",
+        "celular": "11934519005",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Jo\u00c3\u00a3o Lucas da Cruz",
+        "cpf": "ab7a0c66d4d8e69fa9d9c2e33df89fa71429bbf4f74bc8f61f5dbdd6ebdf4606",
+        "idade": "19",
+        "email": "araujojoao-guilherme@yahoo.com.br",
+        "celular": "11958386191",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": [
+            "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas"
+        ]
+    },
+    {
+        "nome": "Sr. Cau\u00c3\u00a3 Cardoso",
+        "cpf": "cef4462a38595aec24b1510d3ff8cb52ec49257e45e63c2e6c97523e27623805",
+        "idade": "28",
+        "email": "joao-lucas48@hotmail.com",
+        "celular": "11927293949",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas"
+        ]
+    },
+    {
+        "nome": "L\u00c3\u00advia Pinto",
+        "cpf": "8289e108e8ca26452daf362b46d16d246f06e9a425a0160c8b70cfab1b4cf8fd",
+        "idade": "39",
+        "email": "camila87@moura.org",
+        "celular": "11986149872",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "em andamento"
+            },
+            {
+                "nome": "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas"
+        ]
+    },
+    {
+        "nome": "Breno Cardoso",
+        "cpf": "bdeceb76b7bd1a40eedeba526ca3f3f6916d8ebcd3a2078a9d433dcdc14d6f8d",
+        "idade": "34",
+        "email": "piresmilena@mendes.br",
+        "celular": "11977146833",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Nathan Barbosa",
+        "cpf": "05e530ddcb9d1b10d225e25beab9e580f18f5b81fd36e364d390d36fa36ad8c9",
+        "idade": "27",
+        "email": "ajesus@uol.com.br",
+        "celular": "11908202025",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Sra. Larissa Cavalcanti",
+        "cpf": "59fa35f655e8c61f619552a1c1d0b86878b288b5843d14f563809d2b7d2f9982",
+        "idade": "30",
+        "email": "opinto@yahoo.com.br",
+        "celular": "11922492646",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Gabrielly da Luz",
+        "cpf": "9788ac9b07c4702b129687171e80a8a24dd6c38b1d127503a62290b30110e391",
+        "idade": "25",
+        "email": "sramos@ribeiro.com",
+        "celular": "11999153278",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "L\u00c3\u00b3gica de Programa\u00c3\u00a7\u00c3\u00a3o | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "L\u00c3\u00b3gica de Programa\u00c3\u00a7\u00c3\u00a3o | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+            "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas"
+        ]
+    },
+    {
+        "nome": "Sarah Cavalcanti",
+        "cpf": "e87de1e92e43610350235502c4ec5dffd4a11711d1ab16486e00472579bc7887",
+        "idade": "30",
+        "email": "tazevedo@gmail.com",
+        "celular": "11999273138",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas"
+        ]
+    },
+    {
+        "nome": "Dr. Ot\u00c3\u00a1vio Costela",
+        "cpf": "1cfed7123adc0c773e294542556d24bde88f7e3611466deebadbc455cd10f697",
+        "idade": "29",
+        "email": "vicentegoncalves@da.br",
+        "celular": "11923504777",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Fundamentos de Programa\u00c3\u00a7\u00c3\u00a3o com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 6 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Paulo Gon\u00c3\u00a7alves",
+        "cpf": "40941fc19e607c78eb779be7b0b375b989dddc532e53a06e3369bfcc5e0fc473",
+        "idade": "19",
+        "email": "ibarbosa@costa.com",
+        "celular": "11985969032",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas",
+            "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas"
+        ]
+    },
+    {
+        "nome": "Lucas Oliveira",
+        "cpf": "515688561867e100630e638fedc35300949565a4914badb4482fe52e1403202a",
+        "idade": "25",
+        "email": "gabrielrodrigues@gmail.com",
+        "celular": "11906296800",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Fundamentos de Programa\u00c3\u00a7\u00c3\u00a3o com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 6 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Maria Alice Silveira",
+        "cpf": "c5f9b14806361e7e1b95b5f3c92b2b58d56b158c6c256db66f22ef9759e904cf",
+        "idade": "30",
+        "email": "otavio73@monteiro.br",
+        "celular": "11980537553",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Ben\u00c3\u00adcio Monteiro",
+        "cpf": "71e0992468d49c72df303d2ae04956fc86c189e356cc1707726ace200911b451",
+        "idade": "25",
+        "email": "cpereira@da.org",
+        "celular": "11923894545",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Sr. Heitor Ferreira",
+        "cpf": "1b0d74d826aba41e2633e7bd3fe8f9d92f9ca2cfd54a9f0fa2019205349d66b4",
+        "idade": "23",
+        "email": "das-nevesjuan@aragao.com",
+        "celular": "11923220451",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Marcos Vinicius da Luz",
+        "cpf": "e1d547a8ca50c89806b308068f80a5e6916bac90539ea1c9776205acee0d550d",
+        "idade": "23",
+        "email": "moreiracaio@ig.com.br",
+        "celular": "11908123161",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas"
+        ]
+    },
+    {
+        "nome": "Paulo Sales",
+        "cpf": "261df5f22b70a7b410d69df61aa99becb35ff464ac669f1dadee96e8613de271",
+        "idade": "23",
+        "email": "ealmeida@freitas.net",
+        "celular": "11919560258",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Fundamentos de Programa\u00c3\u00a7\u00c3\u00a3o com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 6 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": [
+            "Fundamentos de Programa\u00c3\u00a7\u00c3\u00a3o com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 6 semanas"
+        ]
+    },
+    {
+        "nome": "Gustavo Caldeira",
+        "cpf": "cacf05510a0857e89e2476bc2fd361dbcc3dc9ac0d3b30d6718f1ad879c0c576",
+        "idade": "39",
+        "email": "pintomaria-alice@gmail.com",
+        "celular": "11932336836",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": [
+            "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas"
+        ]
+    },
+    {
+        "nome": "Sr. Leandro Barros",
+        "cpf": "89478db181fafe383b0c8c3aeab5726eb416d02b020b9f04c5fad47957b1c014",
+        "idade": "25",
+        "email": "nogueiradaniel@da.com",
+        "celular": "11945794232",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Alexia Rocha",
+        "cpf": "c4742b1180a17a771f5f0867759a21ac94fc476ba514c8077251c09215d9439b",
+        "idade": "24",
+        "email": "ida-cruz@hotmail.com",
+        "celular": "11971478108",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "L\u00c3\u00b3gica de Programa\u00c3\u00a7\u00c3\u00a3o | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Benjamin Porto",
+        "cpf": "fe2cff5c67de5a6dbc83c16b456a1d3507ebe9643a083f0b755c8d77a6156cc2",
+        "idade": "20",
+        "email": "davi-luccanunes@ig.com.br",
+        "celular": "11972153118",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "L\u00c3\u00b3gica de Programa\u00c3\u00a7\u00c3\u00a3o | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "L\u00c3\u00b3gica de Programa\u00c3\u00a7\u00c3\u00a3o | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+            "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas"
+        ]
+    },
+    {
+        "nome": "Mirella Jesus",
+        "cpf": "a6ed5bbacb88928275870028eefb481c563025c1f6f70fe37fb6df59a38ad252",
+        "idade": "37",
+        "email": "nsantos@yahoo.com.br",
+        "celular": "11950272779",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas",
+                "status": "em andamento"
+            },
+            {
+                "nome": "Fundamentos de Programa\u00c3\u00a7\u00c3\u00a3o com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 6 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Dr. Miguel da Mota",
+        "cpf": "5f292ce6dd1b200ba21447c35170c482a5683173b909823505d47451871473fa",
+        "idade": "34",
+        "email": "lnascimento@lopes.org",
+        "celular": "11920854919",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Matheus Oliveira",
+        "cpf": "6f827fb9efc907a3662fc7adea71bb2e27409a57c4d8754f3ee8a2acd7ef44d2",
+        "idade": "29",
+        "email": "carolinasantos@silveira.com",
+        "celular": "11994147340",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Marina Correia",
+        "cpf": "d4b0acbdb22829a0d3870c300c6f594202147b9c88aab099de7f8514b1c54391",
+        "idade": "18",
+        "email": "melomilena@bol.com.br",
+        "celular": "11942000392",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Marcos Vinicius Ferreira",
+        "cpf": "bd832b656144685b106193bfb13cd9124eedf24e6c6abf803d9da9c686ea7550",
+        "idade": "22",
+        "email": "anthony91@gmail.com",
+        "celular": "11905724117",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas"
+        ]
+    },
+    {
+        "nome": "Emanuel Souza",
+        "cpf": "e82bcd670d09f345e974f4c5f23eed486b6acb77c64f4a36ccef273f00eb2aa8",
+        "idade": "35",
+        "email": "heloisa75@silveira.com",
+        "celular": "11920856667",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas"
+        ]
+    },
+    {
+        "nome": "Jo\u00c3\u00a3o Felipe Nogueira",
+        "cpf": "ba5d930b2aaa394d57d55ffedacb3218aa123f97b69f1bfe670b75badcfab034",
+        "idade": "23",
+        "email": "cavalcantidavi-luiz@melo.com",
+        "celular": "11940382916",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [],
+        "certificados": []
+    },
+    {
+        "nome": "Vinicius da Rocha",
+        "cpf": "7b2dbdf4251ff2ab541fbceb3e8bc0a33c3090713f886f0744040f96b9a69b07",
+        "idade": "38",
+        "email": "camposlarissa@uol.com.br",
+        "celular": "11922865847",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Lucca da Cunha",
+        "cpf": "97f12e9a400208afe36881c34b462900bc29a70f69648faeaef14f940b2e43e3",
+        "idade": "31",
+        "email": "enzo-gabriellopes@bol.com.br",
+        "celular": "11976225163",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "em andamento"
+            },
+            {
+                "nome": "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Joana Mendes",
+        "cpf": "8a02bdcad7313e696ad9180c9a3d8025c666fb8e0d80ab8ab9ec9b8acb5734da",
+        "idade": "29",
+        "email": "luiz-fernando78@lopes.br",
+        "celular": "11903886958",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": [
+            "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas"
+        ]
+    },
+    {
+        "nome": "Ana Pinto",
+        "cpf": "4e5a319147c6846d588c857bd36399a4231d7db6d8d9b69aa7bb72b038a25b87",
+        "idade": "31",
+        "email": "thomas95@gmail.com",
+        "celular": "11920706799",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "L\u00c3\u00b3gica de Programa\u00c3\u00a7\u00c3\u00a3o | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "em andamento"
+            },
+            {
+                "nome": "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Ian Duarte",
+        "cpf": "4606752f82138e3c2f750d7314a89f96b49930eb053870259006c940da2338bb",
+        "idade": "33",
+        "email": "lrodrigues@mendes.com",
+        "celular": "11942815093",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "Ana Viana",
+        "cpf": "93c7b28051147819e022df52fc73e6e3b80b3d636875d3b5f5c077f538e3fbbb",
+        "idade": "26",
+        "email": "jcardoso@cavalcanti.com",
+        "celular": "11945697259",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas"
+        ]
+    },
+    {
+        "nome": "Isabel Ferreira",
+        "cpf": "a786e055f4ca2ef45f4ce68b778d9accd638c9b90b8ddcbb90334447f5dcd22d",
+        "idade": "34",
+        "email": "theo86@almeida.br",
+        "celular": "11932668143",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "Introdu\u00c3\u00a7\u00c3\u00a3o \u00c3\u00a0 Inform\u00c3\u00a1tica | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+            "Desenvolvimento de Aplica\u00c3\u00a7\u00c3\u00b5es com Python | Dura\u00c3\u00a7\u00c3\u00a3o: 8 semanas"
+        ]
+    },
+    {
+        "nome": "Clara da Cruz",
+        "cpf": "3c6a3d6c4cfcccb5c6b13010cc50b44ba9253d7bea5024ebfd1a195bb54c72f1",
+        "idade": "25",
+        "email": "maria-fernanda38@bol.com.br",
+        "celular": "11938898110",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "conclu\u00c3\u00addo"
+            },
+            {
+                "nome": "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": [
+            "Curr\u00c3\u00adculo Online e Mercado de Trabalho | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas"
+        ]
+    },
+    {
+        "nome": "Emanuelly da Mata",
+        "cpf": "492f7fbb45c72e54295282c10fa8c8b312d701731c1e7672c821020b5661bb5e",
+        "idade": "26",
+        "email": "luna71@ig.com.br",
+        "celular": "11984419633",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "L\u00c3\u00b3gica de Programa\u00c3\u00a7\u00c3\u00a3o | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas",
+                "status": "conclu\u00c3\u00addo"
+            }
+        ],
+        "certificados": [
+            "L\u00c3\u00b3gica de Programa\u00c3\u00a7\u00c3\u00a3o | Dura\u00c3\u00a7\u00c3\u00a3o: 4 semanas"
+        ]
+    },
+    {
+        "nome": "Marcela Teixeira",
+        "cpf": "3633b2a646a289fc575aa54fa758784b2c06770e6d4a78cf0650f24b18bedb43",
+        "idade": "24",
+        "email": "vitorsilva@hotmail.com",
+        "celular": "11984578915",
+        "senha": "a2ca37fe6fdc490b8f7ce841e1701a169d2b1697c6b5b5c63f94abb8f9b6d6dd",
+        "cursos": [
+            {
+                "nome": "Uso da Internet no Cotidiano | Dura\u00c3\u00a7\u00c3\u00a3o: 3 semanas",
+                "status": "em andamento"
+            },
+            {
+                "nome": "Seguran\u00c3\u00a7a Digital e Cidadania Online | Dura\u00c3\u00a7\u00c3\u00a3o: 2 semanas",
+                "status": "em andamento"
+            }
+        ],
+        "certificados": []
+    },
+    {
+        "nome": "rick_phtavares",
+        "cpf": "4479f51b83da2cdbeaa2a954b1475f289d8e418de6916828d76530ff1a97f427",
+        "idade": "19",
+        "email": "rick.pedrohenriquetavares2@gmail.com",
+        "celular": "11919300190",
+        "senha": "e84b53b44170f9cc22551e986d28be0b5a27d8b40c19d539899ca11e0ad04c30",
+        "cursos": [
+            {
+                "nome": "Seguran\u00e7a Digital e Cidadania Online | Dura\u00e7\u00e3o: 2 semanas",
+                "status": "em andamento"
+            },
+            {
+                "nome": "Fundamentos de Programa\u00e7\u00e3o com Python | Dura\u00e7\u00e3o: 6 semanas",
+                "status": "conclu\u00eddo"
+            }
+        ],
+        "certificados": [
+            "Fundamentos de Programa\u00e7\u00e3o com Python | Dura\u00e7\u00e3o: 6 semanas"
+        ]
+    }
+]

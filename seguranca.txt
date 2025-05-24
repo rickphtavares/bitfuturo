@@ -1,0 +1,49 @@
+🔐 BITFUTURO – POLÍTICA DE SEGURANÇA DIGITAL
+
+A plataforma educacional BitFuturo preza pela segurança e privacidade de seus usuários. Abaixo, listamos boas práticas e orientações para garantir uma experiência segura dentro e fora do ambiente virtual.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📌 RECOMENDAÇÕES GERAIS
+
+1. Utilize senhas fortes e únicas:
+   - Combine letras maiúsculas, minúsculas, números e símbolos.
+   - Evite senhas óbvias como “123456”, datas de nascimento ou nomes simples.
+
+2. Mantenha seus dados atualizados:
+   - E-mail e telefone são essenciais para recuperação de conta.
+
+3. Nunca compartilhe seus dados:
+   - Seu login e senha são pessoais e intransferíveis.
+
+4. Faça logout após o uso:
+   - Principalmente em computadores públicos ou compartilhados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️ CUIDADOS COM LINKS E E-MAILS
+
+5. Evite clicar em links de remetentes desconhecidos:
+   - Verifique o endereço de e-mail com atenção.
+   - A BitFuturo nunca solicitará sua senha por e-mail.
+
+6. Atenção com tentativas de phishing:
+   - Golpistas podem tentar se passar por instituições confiáveis.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛡️ SOBRE SUA PRIVACIDADE
+
+7. Seus dados são criptografados:
+   - Senhas e documentos sensíveis são protegidos com tecnologia de ponta.
+
+8. Você tem controle sobre suas informações:
+   - Pode solicitar atualização ou exclusão de seus dados conforme a LGPD.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🤝 APOIO
+
+Em caso de dúvidas, dificuldades ou incidentes relacionados à segurança digital, entre em contato com nosso suporte pelo e-mail:
+
+📧 suporte@bitfuturo.org
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BitFuturo – Instituto de Tecnologia Social
+Educação acessível, segura e transformadora.
